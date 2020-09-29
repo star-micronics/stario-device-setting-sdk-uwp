@@ -99,7 +99,7 @@
 
         <ComboBox Grid.Row="5" Grid.Column="1" Height="45" Name="steadyLANSettingComboBox" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" FontSize="24" HorizontalAlignment="Stretch">
             <ComboBoxItem Content="Disable" IsSelected="True" HorizontalAlignment="Center" VerticalAlignment="Center" />
-            <ComboBoxItem Content="Enable(for iOS)" HorizontalAlignment="Center" VerticalAlignment="Center"  />
+            <ComboBoxItem Content="Enable" HorizontalAlignment="Center" VerticalAlignment="Center"  />
         </ComboBox>
 
         <Button Grid.Row="6" Grid.Column="0" Grid.ColumnSpan="2" x:Name="applyButton" Content="Apply" Height="45" Margin="0,10,0,10" Click="applyButton_Click" FontSize="24" HorizontalAlignment="Stretch"/>

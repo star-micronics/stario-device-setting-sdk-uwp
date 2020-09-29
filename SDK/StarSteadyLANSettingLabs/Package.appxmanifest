@@ -9,7 +9,7 @@
   <Identity
     Name="efd346cd-860f-480a-8788-3efffdd04fdc"
     Publisher="CN=STAR MICRONICS CO.LTD."
-    Version="0.1.0.0" />
+    Version="0.2.0.0" />
 
   <mp:PhoneIdentity PhoneProductId="efd346cd-860f-480a-8788-3efffdd04fdc" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
 
@@ -32,7 +32,7 @@
       Executable="$targetnametoken$.exe"
       EntryPoint="StarSteadyLANSettingLabs.App">
       <uap:VisualElements
-        DisplayName="StarSteadyLANSettingLabs V0.1.0"
+        DisplayName="StarSteadyLANSettingLabs V0.2.0"
         Square150x150Logo="Assets\Square150x150Logo.png"
         Square44x44Logo="Assets\Square44x44Logo.png"
         Description="StarSteadyLANSettingLabs"
